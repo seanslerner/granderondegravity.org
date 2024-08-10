@@ -4,8 +4,8 @@ layout: splash
 permalink: /
 date: 2024-08-10T09:02:41-04:00
 header:
-  # overlay_color: "#141B18"
-  # overlay_filter: "0.2"
+  overlay_color: "#141B18"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/berm-work.jpg
 #   # actions:
 #   #   - label: "Schedule Service"
