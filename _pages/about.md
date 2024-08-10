@@ -9,7 +9,7 @@ header:
 feature_row:
   - image_path: /assets/images/leah-shuttle.jpg
     title: "Who We Are"
-    excerpt: 'Grande Ronde Gravity is an all-volunteer advocacy organization dedicated to the love of gravity mountain biking in Eastern Oregon. Our primary mission revolves around growing the sport through trail advocacy, building, and maintenance as well as community events and education.<br><br>We proudly partner with local land managers to create new trail access, ensure the upkeep of existing trails, and explore opportunities to expand our network throughout the region.'
+    excerpt: ''
 feature_row2:
   - image_path: /assets/images/booboo.jpg
     title: "What Sets Us Apart"
