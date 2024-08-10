@@ -25,7 +25,7 @@ gallery:
     image_path: /assets/images/shuttling.jpg
     alt: "Shuttling"
   - url: /assets/images/race-hangs.jpg
-    image_path: /assets/images/race-hangs.JPG
+    image_path: /assets/images/race-hangs.jpg
     alt: "Events"
   - url: /assets/images/dt-jump.jpg
     image_path: /assets/images/dt-jump.jpg
