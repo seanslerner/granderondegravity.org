@@ -14,7 +14,7 @@ header:
 feature_row:
   - image_path: /assets/images/berm-work.jpg
     title: "Who We Are"
-    excerpt: 'Grande Ronde Gravity is an all-volunteer advocacy organization dedicated to the love of gravity mountain biking in Eastern Oregon. Our primary mission revolves around growing the sport through trail advocacy, building, and maintenance as well as community events and education.'
+    excerpt: ''
     # url: "#test-link"
     # btn_label: "Learn More"
     # btn_class: "btn--primary"
