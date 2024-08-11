@@ -7,15 +7,15 @@ header:
   overlay_image: /assets/images/flower.jpg
 
 feature_row:
-  - image_path: /assets/images/leah-shuttle.jpg
+  - image_path: /assets/images/team-square.jpg
     title: "Who We Are"
     excerpt: ''
 feature_row2:
-  - image_path: /assets/images/booboo.jpg
+  - image_path: /assets/images/trailwork-8-11-2024.jpg
     title: "What Sets Us Apart"
     excerpt: ''
 feature_row3:
-  - image_path: /assets/images/laughing.jpg
+  - image_path: /assets/images/leah-shuttle.jpg
     title: "Why We Exist"
     excerpt: ''
 feature_row4:

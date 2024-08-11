@@ -20,6 +20,15 @@ feature_row:
     # btn_class: "btn--primary"
 
 gallery:
+  - url: /assets/images/teamwork.jpg
+    image_path: /assets/images/teamwork.jpg
+    alt: "Teamwork"
+  - url: /assets/images/berm-boss.jpg
+    image_path: /assets/images/berm-boss.jpg
+    alt: "Berm Boss"
+  - url: /assets/images/slapslapslap.jpg
+    image_path: /assets/images/slapslapslap.jpg
+    alt: "Slap slap slap"
   - url: /assets/images/shuttling.jpg
     image_path: /assets/images/shuttling.jpg
     alt: "Shuttling"
