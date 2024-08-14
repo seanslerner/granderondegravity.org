@@ -13,7 +13,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/trailwork-8-11-2024.jpg
     title: "What Sets Us Apart"
-    excerpt: '<br>Central to Grande Ronde Gravity’s mission is the idea of belonging. To put it simply: mountain biking has an exclusivity problem. There are well-known economic and social barriers to engaging with the sport. GRG hopes to lower some of these barriers through programs that particularly encourage women and young people to get on bikes and ride local trails. Through grants and donations, we are able to provide interested youth with quality, reliable mountain bikes at little to no cost. Similar programs for adults ensure they are on bikes that are suited for the terrain, well-made, and safe. GRG also cultivates belonging through group rides, instructional sessions, races for fun, and numerous shuttle days, which are free for people to join. We hope these activities will foster both camaraderie and a joy for the sport in new and experienced riders.'
+    excerpt: '<br>Central to Grande Ronde Gravity’s mission is the idea of belonging. To put it simply: mountain biking has an exclusivity problem. There are well-known economic and social barriers to engaging with the sport. GRG hopes to lower some of these barriers through programs that particularly encourage women and young people to get on bikes and ride local trails. Through grants and donations, we are able to provide interested youth with quality, reliable mountain bikes at little to no cost. Similar programs for adults ensure they are on bikes that are suited for the terrain, well-made, and safe. GRG also cultivates belonging through group rides, instructional sessions, races, and numerous shuttle days, which are free for people to join. We hope these activities will foster both camaraderie and a joy for the sport in new and experienced riders.'
 feature_row3:
   - image_path: /assets/images/leah-shuttle.jpg
     title: "Why We Exist"
@@ -21,7 +21,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/loading-up.jpg
     title: "What We Do and How We Do It"
-    excerpt: '<br>We literally start from the ground up, organizing volunteers to build and maintain trails in the local mountains. Participants learn how to build a berm, what’s involved in shaping a good jump, ways to think about lines and turns, and how to imagine a trail into existence. All this work builds community and connects people intimately with the dirt they ride on in ways most riders tend to miss. Work days are complemented by shuttle days, group rides, and just-for-fun races that take place where volunteers work. There is a deep joy in riding a portion of trail you have built, and the connections fostered between volunteers — through riding and digging — is brilliant.'
+    excerpt: '<br>We literally start from the ground up, organizing volunteers to build and maintain trails in the local mountains. Participants learn how to build a berm, what’s involved in shaping a good jump, ways to think about lines and turns, and how to imagine a trail into existence. All this work builds community and connects people intimately with the dirt they ride on in ways most riders tend to miss. Work days are complemented by shuttle days, group rides, and races that take place where volunteers work. There is a deep joy in riding a portion of trail you have built, and the connections fostered between volunteers — through riding and digging — is brilliant.'
 feature_row5:
   - image_path: /assets/images/steph-riding.jpg
     title: "Who We're Here For"
