@@ -14,7 +14,7 @@ header:
 feature_row:
   - image_path: /assets/images/berm-work.jpg
     title: "Who We Are"
-    excerpt: 'Grande Ronde Gravity is a group of local riders and trail builders who want to expand opportunities for downhill mountain biking in Eastern Oregon. We are committed to being good stewards of the land, building well-made and sustainable trails. More importantly, we are dedicated to creating a welcoming and supportive community around our work.'
+    excerpt: 'Grande Ronde Gravity is a group of local riders and trail builders who want to expand opportunities for downhill mountain biking and bmx in Eastern Oregon. We are committed to being good stewards of the land, building well-made and sustainable trails. More importantly, we are dedicated to creating a welcoming and supportive community around our work.'
     # url: "#test-link"
     # btn_label: "Learn More"
     # btn_class: "btn--primary"

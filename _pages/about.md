@@ -9,7 +9,7 @@ header:
 feature_row:
   - image_path: /assets/images/team-square.jpg
     title: "Who We Are"
-    excerpt: '<br>We are a group of local riders and trail builders who want to expand opportunities for downhill mountain biking in Eastern Oregon. We are committed to being good stewards of the land, building well-made and sustainable trails. More importantly, we are dedicated to creating a welcoming and supportive community around our work.'
+    excerpt: '<br>We are a group of local riders and trail builders who want to expand opportunities for downhill mountain biking and bmx in Eastern Oregon. We are committed to being good stewards of the land, building well-made and sustainable trails. More importantly, we are dedicated to creating a welcoming and supportive community around our work.'
 feature_row2:
   - image_path: /assets/images/trailwork-8-11-2024.jpg
     title: "What Sets Us Apart"
@@ -17,7 +17,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/leah-shuttle.jpg
     title: "Why We Exist"
-    excerpt: '<br>We exist because we see room for the growth of mountain biking in our region, and we want to develop a supportive and welcoming culture around riding. We believe this happens when riders are connected to the trails they use. Our programming engages volunteers in trail building and then links that work to a wide array of social events around riding.'
+    excerpt: '<br>We exist because we see room for the growth of mountain biking and bmx in our region, and we want to develop a supportive and welcoming culture around riding. We believe this happens when riders are connected to the trails they use. Our programming engages volunteers in trail building and then links that work to a wide array of social events around riding.'
 feature_row4:
   - image_path: /assets/images/loading-up.jpg
     title: "What We Do and How We Do It"
