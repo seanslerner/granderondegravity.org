@@ -20,6 +20,9 @@ feature_row:
     # btn_class: "btn--primary"
 
 gallery:
+  - url: /assets/images/lg-pumptrack-1.jpg
+    image_path: /assets/images/lg-pumptrack-1.jpg
+    alt: "Pump track"
   - url: /assets/images/teamwork.jpg
     image_path: /assets/images/teamwork.jpg
     alt: "Teamwork"
