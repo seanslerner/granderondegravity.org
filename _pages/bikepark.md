@@ -9,7 +9,7 @@ header:
 feature_row:
   - image_path: /assets/images/kids-dirt-jump.jpg
     title: "Support Dirt Jumps in La Grande"
-    excerpt: '<br>Jumping is one of the most fun things you can do on a bmx or mountain bike, but, like any technical skill, to do it well and safely takes regular practice on well built jumps.<br><br>The recently opened Pioneer Park Pump Track gives beginner riders the chance to try jumping their bike...'
+    excerpt: '<br>Jumping is one of the most fun things you can do on a bmx or mountain bike, but, like any technical skill, to do it well and safely takes regular practice on well built jumps.<br><br>The recently opened Pioneer Park Pump Track gives beginner riders the chance to try jumping their bike. We want to build on that success, giving riders who get comfortable on the pump track somewhere to continue developing their skills and having fun.'
 feature_row2:
   - image_path: /assets/images/kids-dirt-jumps2.jpg
     title: "What are dirt jumps / BMX trails?"
