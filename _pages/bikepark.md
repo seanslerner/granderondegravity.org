@@ -37,8 +37,8 @@ gallery:
   - url: /assets/images/discovery-meridian.jpeg
     image_path: /assets/images/discovery-meridian.jpeg
     alt: "Discovery Bike Park, Meridian, Idaho"
-  - url: /assets/images/eugene.jpeg
-    image_path: /assets/images/eugene.jpeg
+  - url: /assets/images/eugene.JPEG
+    image_path: /assets/images/eugene.JPEG
     alt: "Eugene, Oregon"
 ---
 
