@@ -17,7 +17,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/gateway-green.jpg
     title: "Why La Grande needs a jump park"
-    excerpt: '<br>La Grande currently has the only pump track in eastern Oregon. Even better is that it’s co-located with the skate park. The draw of the pump track is already apparent, as cyclists coming through town stop to burn some energy riding the track.<br><br>A dirt jump park would elevate La Grande’s profile exponentially, drawing in riders from Idaho, western Oregon, and Washington. Mountain bikers looking to build skills before using MERA or Anthony Lakes will stop specifically to practice on a dirt jump line. And locals who are developing skills to use on either a mountain bike or a bmx bike will find the different levels of dirt jumps to be integral to improvement.'
+    excerpt: '<br>La Grande currently has the only asphalt pump track in eastern Oregon. Even better is that it’s co-located with the skate park. The draw of the pump track is already apparent, as riders coming through town stop to burn some energy riding the track.<br><br>A dirt jump park would elevate La Grande’s profile exponentially, drawing in riders from Idaho, western Oregon, and Washington. Mountain bikers looking to build skills before using MERA or Anthony Lakes will stop specifically to practice on a dirt jump line. And locals who are developing skills to use on either a mountain bike or a bmx bike will find the different levels of dirt jumps to be integral to improvement.'
 gallery:
   - url: /assets/images/gateway-green2.jpg
     image_path: /assets/images/gateway-green2.jpg
