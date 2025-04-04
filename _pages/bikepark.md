@@ -42,6 +42,8 @@ gallery:
     alt: "Eugene, Oregon"
 ---
 
+{% include survey.html %}
+
 {% include feature_row type="right" %}
 
 {% include feature_row id="feature_row2" type="left" %}
