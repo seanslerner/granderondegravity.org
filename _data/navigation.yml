@@ -3,6 +3,8 @@ main:
     url: /about
   # - title: "Donate"
   #   url: /donate
+  - title: "Get Involved"
+    url: /volunteer
   - title: "Contact"
     url: /contact
   - title: "Bike Park Project"
