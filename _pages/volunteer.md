@@ -11,7 +11,7 @@ feature_row:
     title: "Trail Stewardship"
     excerpt: '<br>Spring, summer, and fall you can find our crew working on trails in MERA and the surrounding area. We can always use another hand. Current opportunities will be shared to our newsletter and on our <a href="https://www.instagram.com/granderondegravity/">Instagram (@granderondegravity)</a>. We will try to update them here as well.<br><br><a href="https://www.signupgenius.com/go/10C054CA5AD2DA6F9C16-56396190-honor#/">Sunday, April 27th, 9:00am - 1:00pm: Honor Roll Jump Refresh</a>'
 feature_row2:
-  - image_path: /assets/images/bmxlibrary.jpg
+  - image_path: /assets/images/bmxlibrary.JPG
     title: "BMX Library"
     excerpt: '<br>Almost every Wednesday and Saturday afternoon from 3:30 to 6:00 or so, assuming good weather, we bring our library of BMX bikes down to Pioneer Park so that anyone can ride the pump track and skate park. The seven bikes were purchased in fall of 2024 with the generous support of the Wildhorse Foundation. In spring of 2025 we will be adding an additional 4 bikes with the support of Travel Oregon.<br><br>If you would like to help out with the library, email us at <a href="mailto=info@granderondegravity.org">info@granderondegravity.org</a>.'
 feature_row3:
