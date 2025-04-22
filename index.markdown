@@ -32,6 +32,9 @@ gallery:
   - url: /assets/images/slapslapslap.jpg
     image_path: /assets/images/slapslapslap.jpg
     alt: "Slap slap slap"
+  - url: /assets/images/bmxlibrary.JPG
+    image_path: /assets/images/bmxlibrary.JPG
+    alt: "BMX Library"
   - url: /assets/images/shuttling.jpg
     image_path: /assets/images/shuttling.jpg
     alt: "Shuttling"
