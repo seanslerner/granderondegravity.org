@@ -1,11 +1,13 @@
 main:
-  - title: "About"
-    url: /about
   # - title: "Donate"
   #   url: /donate
   - title: "Get Involved"
     url: /volunteer
-  - title: "Contact"
-    url: /contact
   - title: "Bike Park Project"
     url: /bikepark
+  - title: "BMX Library"
+    url: /library
+  - title: "About"
+    url: /about
+  - title: "Contact"
+    url: /contact

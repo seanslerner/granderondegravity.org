@@ -9,7 +9,7 @@ header:
 feature_row:
   - image_path: /assets/images/berming.jpg
     title: "Trail Stewardship"
-    excerpt: '<br>Spring, summer, and fall you can find our crew working on trails in MERA and the surrounding area. We can always use another hand. Current opportunities will be shared to our newsletter and on our <a href="https://www.instagram.com/granderondegravity/">Instagram (@granderondegravity)</a>. We will try to update them here as well.<br><br><a href="https://www.signupgenius.com/go/10C054CA5AD2DA6F9C16-56396190-honor#/">Sunday, April 27th, 9:00am - 1:00pm: Honor Roll Jump Refresh</a>'
+    excerpt: '<br>Spring, summer, and fall you can find our crew working on trails in MERA and the surrounding area. We can always use another hand. Current opportunities will be shared to our newsletter and on our <a href="https://www.instagram.com/granderondegravity/">Instagram (@granderondegravity)</a>. We will try to update them here as well.'
 feature_row2:
   - image_path: /assets/images/bmxlibrary.JPG
     title: "BMX Library"
