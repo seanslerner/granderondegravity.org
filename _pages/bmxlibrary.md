@@ -20,15 +20,6 @@ gallery:
   - url: /assets/images/bmx-library-1.jpg
     image_path: /assets/images/bmx-library-1.jpg
     alt: ""
-  - url: /assets/images/bmx-library-2.jpg
-    image_path: /assets/images/bmx-library-2.jpg
-    alt: ""
-  - url: /assets/images/bmx-library-3.jpg
-    image_path: /assets/images/bmx-library-3.jpg
-    alt: ""
-  - url: /assets/images/bmx-library-7.jpg
-    image_path: /assets/images/bmx-library-7.jpg
-    alt: ""
 ---
 
 {% include feature_row type="left" %}
